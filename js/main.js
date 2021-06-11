@@ -107,3 +107,4 @@
     
 })(jQuery);
 
+$('#link-whatsapp').click(function(){ window.open('https://api.whatsapp.com/send?phone=5551983043447&text=Oi%20amor!%20Estou%20com%20saudades%20de%20ti.'); return false; });
